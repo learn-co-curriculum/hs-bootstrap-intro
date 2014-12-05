@@ -13,4 +13,4 @@ type: intro
 
 ##Resources
 + <a href="http://getbootstrap.com/">Twitter Bootstrap</a>: documentation
-+ <a href="http://getbootstrap.com/">Bootstrap Expo</a>: A curated gallery of beautiful websites that use Bootstrap
++ <a href="http://expo.getbootstrap.com/">Bootstrap Expo</a>: A curated gallery of beautiful websites that use Bootstrap
