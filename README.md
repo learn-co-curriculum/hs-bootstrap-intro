@@ -1,8 +1,4 @@
----
-tags: html, css, bootstrap, kids
-languages: html, css
-type: intro
----
+
 ### Unit Goals
 * Explain **what Bootstrap is** and what it's used for
 * **Integrate Bootstrap into an application** for better site design and responsiveness
