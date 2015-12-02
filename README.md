@@ -12,5 +12,3 @@
 + <a href="http://expo.getbootstrap.com/">Bootstrap Expo</a>: A curated gallery of beautiful websites that use Bootstrap
 
 <a href='https://learn.co/lessons/hs-bootstrap-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
-
-<a href='https://learn.co/lessons/hs-bootstrap-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
