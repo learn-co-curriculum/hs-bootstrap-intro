@@ -11,4 +11,4 @@
 + <a href="http://getbootstrap.com/">Twitter Bootstrap</a>: documentation
 + <a href="http://expo.getbootstrap.com/">Bootstrap Expo</a>: A curated gallery of beautiful websites that use Bootstrap
 
-<a href='https://learn.co/lessons/hs-bootstrap-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-bootstrap-intro' title='Unit Goals'>Unit Goals</a> on Learn.co and start learning to code for free.</p>
